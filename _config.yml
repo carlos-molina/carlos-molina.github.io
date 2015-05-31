@@ -1,0 +1,14 @@
+# Site settings
+title: Carlos' (Molina-Jimenez)  Blog Space
+email: carlos.moliona@cl.cam.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal bog space created for sharing some ideas
+  with whoever pops in --everybody is very welcome.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
