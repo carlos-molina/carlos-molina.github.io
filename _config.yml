@@ -1,13 +1,17 @@
 # Site settings
-title: carlos' (Molina-Jimenez)  Blog Space
+title: carlos' (molina-jimenez)  Blog Space
+welcometitle: Welcome to carlos' molina  Blog
 email: carlos.molina@cl.cam.ac.uk
+phone: 44 01223 ------ 
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal bog space created for sharing some ideas
   with whoever pops in --everybody is very welcome.
 
+blog-admin: Blog created by carlos molina-jimenez
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: comingSoon 
 github_username:  carlos-molina
 
 # Build settings
