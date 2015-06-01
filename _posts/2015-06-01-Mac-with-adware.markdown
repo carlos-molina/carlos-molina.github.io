@@ -15,9 +15,8 @@ You need to:
  <li> delete them (place then in the Trash). </li>
 </ol>
 
-Precise description of the solution: go to [Remove unwanted adware]
-(http://support.apple.com/en-us/HT203987) that displays pop-up ads and graphics on
-your Mac.
+Precise description of the solution: go to [Remove unwanted adware](http://support.apple.com/en-us/HT203987) 
+that displays pop-up ads and graphics on your Mac.
 
 
  
