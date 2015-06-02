@@ -4,7 +4,7 @@ title:  "Is your Mac infected with adware?"
 date:   2015-05-29 21:12:37
 categories: jekyll update
 ---
-I've just spent one hour of my life manually sanitising my MackBook Air: Safari went mad and kept opening
+I've just spent one hour of my life <strong>manually sanitising</strong> my MackBook Air: Safari went mad and kept opening
 unsolicited pages with ads. I discovered that it was under the control of the annoying VSearch adware.
 
 General idea of the solution: You need to feel confident enough to fiddle with files and folders.
