@@ -4,14 +4,14 @@ title:  "Is your Mac infected with adware?"
 date:   2015-05-29 21:12:37
 categories: jekyll update
 ---
-I've just spent two hours of my life sanitising my MackBook Air: Safari went mad and kept opening 
-unsolicited pages with ads.
+I've just spent one hour of my life manually sanitising my MackBook Air: Safari went mad and kept opening
+unsolicited pages with ads. I discovered that it was under the control of the annoying VSearch adware.
 
-General idea of the solution: You need to to feel confident enough to fiddle with files and folders.
+General idea of the solution: You need to feel confident enough to fiddle with files and folders.
 
 You need to:
 <ol>
- <li> find a couple of files and a folder on your disk. </li>
+ <li> find a couple of files (with HTML code) and a folder on your disk. </li>
  <li> delete them (place then in the Trash). </li>
 </ol>
 
