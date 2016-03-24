@@ -16,7 +16,9 @@ This section gives a good idea about my research interests.
   <dt><h1>Previous projects</h1></dt>
     <dd> 
       <ul>
+       <li>User-Centric Networking</li>
        <li>TAPAS</li>
+       <li>...</li>
       </ul>
      </dd>
     </dt>
